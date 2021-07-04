@@ -1,5 +1,5 @@
 {
-  name : "Ardhio Ar-Ridho",
-  age : 21,
-  domicile : "Indonesia"
+  "name" : "Ardhio Ar-Ridho",
+  "age" : 21,
+  "domicile" : "Indonesia"
 }
